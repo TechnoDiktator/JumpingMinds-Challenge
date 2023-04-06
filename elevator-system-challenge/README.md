@@ -53,8 +53,6 @@
 
 # Imporvements:
 
-1. Error handling could be improved.
-
 2. Take input from user / config file rather than hardcoding it.
 
 3. Enhance system to have better cost functions.
